@@ -1,6 +1,6 @@
-# Hi 👋 I am Sudarsan
+<h1 align="center"> Hi👋 I am Sudarsan </h1>
 
-I see friction where others see normal. Then I fix it.
+<h4 align="center">Friction bothers me. Clean solutions satisfy me 🤌. Sometimes I build them.</h4>
 
 ---
 
