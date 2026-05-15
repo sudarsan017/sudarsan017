@@ -1,6 +1,6 @@
 # Hi 👋 I am Sudarsan
 
-I notice broken processes and fix them — usually before anyone asks.
+I see friction where others see normal. Then I fix it.
 
 ---
 
